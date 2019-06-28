@@ -1,0 +1,15 @@
+.panel-heading {
+    position: relative;
+}
+
+.actions {
+    background: #fff;
+    border: 1px solid #ddd;
+    position: absolute;
+    list-style: none;
+    margin: -4px 14px 0 0;
+    padding: 5px;
+    border-radius: 3px;
+    right: 0;
+    top: 100%;
+}

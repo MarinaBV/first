@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-image: url(../../imgWEB/1x1-000000ff.png);*/
+    /*background-repeat: repeat;*/
+    width: 100%;
+    height: 100%;
+    background: black;
+
+}
+
+.Macbook {
+    margin-top: 200px;
+    margin-left: 450px;
+
+}
+
+.How_to {
+    font-size: 218px;
+    font-family: "S FPro Display";
+    line-height: 331px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Edit_the_Edit_me_Smartobject__The_image_will_cr {
+    font-size: 46px;
+    line-height: 70px;
+    color: #737272;
+    font-family: "S FPro Display";
+    text-align: center;
+}
+.Created {
+    font-size: 46px;
+    line-height: 70px;
+    color: #737272;
+    font-family: "S FPro Display";
+    text-align: center;
+}
+a{
+    color: white;
+}
+.logo{
+    position: center;
+    margin-left: 2441px;
+    margin-top: 70px;
+    margin-bottom: 200px;
+}
